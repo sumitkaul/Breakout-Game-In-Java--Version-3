@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Game><GameScene><BoardPanel><Ball velocity="0" xCoordinate="80" xDir="RIGHT" yCoordinate="80" yDir="BOTTOM"/><Paddle yCoordinate="125"/><Brick0 isHit="false"/><Brick1 isHit="false"/><Brick2 isHit="false"/><Brick3 isHit="false"/><Brick4 isHit="false"/><Brick5 isHit="false"/></BoardPanel></GameScene><CommandArray/></Game>
